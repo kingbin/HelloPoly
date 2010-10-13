@@ -1,0 +1,283 @@
+THelloPoly
+v7
+r0
+t308632819.141465
+cCheck dependencies
+cProcessInfoPlistFile "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist" HelloPoly-Info.plist
+cCompileXIB "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/MainWindow.xib"
+cProcessPCH /var/folders/Bg/BgKyO+5NF7aRWybpYWk4LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-cawxejeetlrojvexatyggekjzfdo/HelloPoly_Prefix.pch.gch HelloPoly_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Classes/HelloPolyAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/PolygonShape.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly" normal i386
+cGenerateDSYMFile "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM" "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly"
+cTouch "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk
+c000000004C6C30170000000000000110
+t1282158615
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004C5A4DB60000000000295900
+t1280986550
+s2709760
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004C5A4DB0000000000029D580
+t1280986544
+s2741632
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C5A4DA10000000000001466
+t1280986529
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C6241ED00000000000009CD
+t1281507821
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C6242840000000001E228C0
+t1281507972
+s31598784
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/Assignment2A/PolygonShape.h
+c000000004CA2ACAE000000000000032B
+t1285729454
+s811
+i<Cocoa/Cocoa.h>
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/../Assignment2A/PolygonShape.m
+c000000004CA3FD850000000000000B35
+t1285815685
+s2869
+i"PolygonShape.h"
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Classes/HelloPolyAppDelegate.h
+c000000004CB116A9000000000000014F
+t1286674089
+s335
+i<UIKit/UIKit.h>
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Classes/HelloPolyAppDelegate.m
+c000000004CB116A900000000000009D3
+t1286674089
+s2515
+i"HelloPolyAppDelegate.h"
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Controller.h
+c000000004CB520B500000000000001D5
+t1286938805
+s469
+i<UIKit/UIKit.h>
+i<Foundation/Foundation.h>
+i"PolygonShape.h"
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Controller.m
+c000000004CB525210000000000000235
+t1286939937
+s565
+i"Controller.h"
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/HelloPoly_Prefix.pch
+c000000004CB116A900000000000000BB
+t1286674089
+s187
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/MainWindow.xib
+c000000004CB34DBF0000000000008CE0
+t1286819263
+s36064
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/PolygonShape.h
+c000000004CB524EC0000000000000331
+t1286939884
+s817
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/PolygonShape.m
+c000000004CB5256E0000000000000C89
+t1286940014
+s3209
+i"PolygonShape.h"
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app
+t1286940019
+s204
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM
+t1286940019
+s102
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+t1286940019
+s24028
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist
+t1286940016
+s599
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/MainWindow.nib
+t1286940017
+s4751
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/PkgInfo
+t1286940016
+s8
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o
+t1286940019
+s36180
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPoly.LinkFileList
+c000000004CB52570000000000000029A
+t1286940016
+s666
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o
+t1286940019
+s46364
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o
+t1286940019
+s17560
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o
+t1286940019
+s6368
+
+N/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/main.m
+c000000004CB116A9000000000000016D
+t1286674089
+s365
+i<UIKit/UIKit.h>
+
+N/var/folders/Bg/BgKyO+5NF7aRWybpYWk4LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-cawxejeetlrojvexatyggekjzfdo/HelloPoly_Prefix.pch.gch
+t1286940018
+s15211536
+
+NHelloPoly-Info.plist
+c000000004CB116A9000000000000038D
+t1286674089
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies308632816#308632816#0(0"0(0#1#0"8623480448#0"0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Controller.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308632819.053941
+e308632819.106952
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o
+x/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Controller.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Controller.m308632819#308632819#0(0"0(0#0#84"/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Controller.m8619487520#2351"    cd "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap" -iquote "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap" "-F/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/include" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources" -include /var/folders/Bg/BgKyO+5NF7aRWybpYWk4LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-cawxejeetlrojvexatyggekjzfdo/HelloPoly_Prefix.pch -c "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Controller.m" -o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/Controller.o"0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Classes/HelloPolyAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308632819.053215
+e308632819.111887
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o
+x/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Classes/HelloPolyAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@110"Compile /Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Classes/HelloPolyAppDelegate.m308632819#308632819#0(0"0(0#0#102"/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Classes/HelloPolyAppDelegate.m8622097888#2379"    cd "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap" -iquote "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap" "-F/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/include" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources" -include /var/folders/Bg/BgKyO+5NF7aRWybpYWk4LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-cawxejeetlrojvexatyggekjzfdo/HelloPoly_Prefix.pch -c "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/Classes/HelloPolyAppDelegate.m" -o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPolyAppDelegate.o"0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/../Assignment2A/PolygonShape.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/PolygonShape.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308632819.054663
+e308632819.109132
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o
+x/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/PolygonShape.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@94"Compile /Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/PolygonShape.m308632819#308632819#0(0"0(0#0#86"/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/PolygonShape.m8604839744#2355"    cd "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap" -iquote "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap" "-F/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/include" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources" -include /var/folders/Bg/BgKyO+5NF7aRWybpYWk4LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-cawxejeetlrojvexatyggekjzfdo/HelloPoly_Prefix.pch -c "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/PolygonShape.m" -o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/PolygonShape.o"0#
+
+CCompileC build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s308632819.052381
+e308632819.104789
+r1
+xCompileC
+xbuild/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o
+x/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@86"Compile /Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/main.m308632819#308632819#0(0"0(0#0#78"/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/main.m8620595808#2339"    cd "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap" -iquote "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap" "-F/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/include" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources" -include /var/folders/Bg/BgKyO+5NF7aRWybpYWk4LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-cawxejeetlrojvexatyggekjzfdo/HelloPoly_Prefix.pch -c "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/main.m" -o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/MainWindow.xib"
+s308632816.742402
+e308632818.036171
+r1
+xCompileXIB
+x/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib308632816#308632818#0(0"0(0#0#86"/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/MainWindow.xib8622705632#677"    cd "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/MainWindow.nib" "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk0#
+
+CGenerateDSYMFile "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM" "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly"
+s308632819.128527
+e308632819.139441
+r1
+xGenerateDSYMFile
+x/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM
+x/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/HelloPoly.app.dSYM build/Debug-iphonesimulator/HelloPoly.app/HelloPoly308632819#308632819#0(0"0(0#0#123"/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly8621940032#494"    cd "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly" -o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app.dSYM"0#
+
+CLd "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly" normal i386
+s308632819.111948
+e308632819.128440
+r1
+xLd
+x/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly
+xnormal
+xi386
+lSLF07#2@128"Link /Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly308632819#308632819#0(0"0(0#0#0"8623178336#1085"    cd "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk "-L/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator" "-F/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator" -filelist "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/Objects-normal/i386/HelloPoly.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/HelloPoly"0#
+
+CProcessInfoPlistFile "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist" HelloPoly-Info.plist
+s308632816.738836
+e308632816.742312
+r1
+xProcessInfoPlistFile
+x/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist
+xHelloPoly-Info.plist
+lSLF07#2@28"Process HelloPoly-Info.plist308632816#308632816#0(0"0(0#0#92"/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/HelloPoly-Info.plist8605437728#590"    cd "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility HelloPoly-Info.plist -genpkginfo "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app/Info.plist"0#
+
+CProcessPCH /var/folders/Bg/BgKyO+5NF7aRWybpYWk4LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-cawxejeetlrojvexatyggekjzfdo/HelloPoly_Prefix.pch.gch HelloPoly_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s308632818.036260
+e308632819.052256
+r1
+xProcessPCH
+x/var/folders/Bg/BgKyO+5NF7aRWybpYWk4LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-cawxejeetlrojvexatyggekjzfdo/HelloPoly_Prefix.pch.gch
+xHelloPoly_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile HelloPoly_Prefix.pch308632818#308632819#0(0"0(0#0#92"/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/HelloPoly_Prefix.pch8621122688#2194"    cd "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.1.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40100 -iquote "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-generated-files.hmap" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-own-target-headers.hmap" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-all-target-headers.hmap" -iquote "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/HelloPoly-project-headers.hmap" "-F/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/include" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources/i386" "-I/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/HelloPoly.build/Debug-iphonesimulator/HelloPoly.build/DerivedSources" -c "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/HelloPoly_Prefix.pch" -o /var/folders/Bg/BgKyO+5NF7aRWybpYWk4LE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/HelloPoly_Prefix-cawxejeetlrojvexatyggekjzfdo/HelloPoly_Prefix.pch.gch0#
+
+CTouch "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app"
+s308632819.139504
+e308632819.141442
+r1
+xTouch
+x/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app
+lSLF07#2@119"Touch /Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app308632819#308632819#0(0"0(0#0#0"8621491424#350"    cd "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/chrisblazek/Documents/Xcode/cs193/Follow Along/Mac OSx/HelloPoly/build/Debug-iphonesimulator/HelloPoly.app"0#
+
